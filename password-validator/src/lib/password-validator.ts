@@ -1,3 +1,3 @@
-export function passwordValidator(password: string): string {
+export function passwordValidator(password: string): boolean {
   throw Error('Unimplemented');
 }
